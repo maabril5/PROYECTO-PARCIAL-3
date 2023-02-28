@@ -38,7 +38,7 @@ MINI AMPLIFICADOR DE AUDIO CASERO.
 
 - 1 Cable Plug
 
-- 1 Parlante de 80 ohm a 2 watss
+- 1 Parlante de 8 ohm a 2 watss
 
 - Cables conductores
 
