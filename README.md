@@ -24,6 +24,8 @@ MINI AMPLIFICADOR DE AUDIO CASERO.
 
 2. MARCO TEÓRICO.
 
+![image](https://user-images.githubusercontent.com/117920423/221756819-52ff7cde-2479-4f0a-8e40-473fd8e35439.png)
+
 3. PROCEDIMIENTO.
 
 3.1. Se requirieron los siguientes materiales:
@@ -67,6 +69,14 @@ MINI AMPLIFICADOR DE AUDIO CASERO.
 - El video expuesto nos ayudó a interectuar más con el tema y resumirlo mediaticamente.
 
 6. BIBLIOGRAFÍA.
+
+- ¿Cómo funciona un amplificador de audio? Usos y tipos. (s/f). Com.pe. Recuperado el 28 de febrero de 2023, de https://bticino.com.pe/como-funciona-un-amplificador-de-audio-usos-y-tipos/
+
+- Condensador Electrolitico 220uF x 16V. (s/f). Ferretrónica. Recuperado el 28 de febrero de 2023, de https://ferretronica.com/products/condensador-electrolitico-220uf-x-16v
+
+- Integrado LM386. (s/f). Ecured.cu. Recuperado el 28 de febrero de 2023, de https://www.ecured.cu/Integrado_LM386
+
+- (S/f). Com.co. Recuperado el 28 de febrero de 2023, de https://www.julpin.com.co/inicio/resistencias-y-potenciometros/706-potenciometro-de-10k.html#:~:text=El%20potenci%C3%B3metro%20tiene%20una%20resistencia,solo%20o%20con%20alguna%20vibraci%C3%B3n.
 
 
 
