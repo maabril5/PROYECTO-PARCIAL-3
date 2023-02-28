@@ -50,7 +50,23 @@ Comprender el aporte de cada cable implementado en el circuito para su buena eje
 
 ![image](https://user-images.githubusercontent.com/117920423/221748468-1af1d770-e97e-4675-89a3-5286d8956e6a.png)
 
+3.3. Se procedió a armar el circuito de forma física:
 
+![image](https://user-images.githubusercontent.com/117920423/221749264-951df516-0cb1-4406-9883-6e95428424ec.png)
+
+VIDEO.
+
+
+
+CONCLUSIONES.
+
+Se concluye lo importante que son los cables fase y neutro para el manejo de la corriente eléctrica en el circuito.
+
+Concluimos tras el proyecto el resultado de aprendizaje obtenido aplicando un circuito de manera autónoma con un exhausto método de investigación.
+
+- El video expuesto nos ayudó a interectuar más con el tema y resumirlo mediaticamente.
+
+BIBLIOGRAFÍA.
 
 
 
