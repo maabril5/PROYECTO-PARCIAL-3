@@ -12,13 +12,13 @@ MINI AMPLIFICADOR DE AUDIO CASERO.
 
 1. OBJETIVO GENERAL
 
-Analizar e implementar mediante ingeniería inversa el circuito interruptor de 3 vías (luz de escalera), desarrollando así nuevos conocimientos de conceptos que se observa en el video explicativo de la práctica.
+- Analizar e implementar un circuito teniendo como base un circuito integrado, en el cuál se van a relacionar los componentes de uso para el funcionamiento de un mini amplificador.
 
 1.1. OBJETIVOS ESPECÍFICOS
 
-Estudiar y entender las definiciones y funciones de los materiales utilizados.
+- Estudiar y entender las definiciones y funciones de los materiales utilizados.
 
-Comprender el aporte de cada cable implementado en el circuito para su buena ejecución.
+- Comprender el diagrama esquemático del circuito, sabiendo localizar la ubicación de los componentes.
 
 - Mediante un video expositivo reforzar lo estudiado en este proyecto.
 
@@ -54,19 +54,19 @@ Comprender el aporte de cada cable implementado en el circuito para su buena eje
 
 ![image](https://user-images.githubusercontent.com/117920423/221749264-951df516-0cb1-4406-9883-6e95428424ec.png)
 
-VIDEO.
+4. VIDEO.
 
 
 
-CONCLUSIONES.
+5. CONCLUSIONES.
 
-Se concluye lo importante que son los cables fase y neutro para el manejo de la corriente eléctrica en el circuito.
+- Se concluye la importante función que desempeña cada componente para el funcionamiento del circuito, teniendo en base conocimientos previos de dichos elementos.
 
-Concluimos tras el proyecto el resultado de aprendizaje obtenido aplicando un circuito de manera autónoma con un exhausto método de investigación.
+- Concluimos tras el proyecto el resultado de aprendizaje obtenido aplicando un circuito de manera autónoma con un exhausto método de investigación.
 
 - El video expuesto nos ayudó a interectuar más con el tema y resumirlo mediaticamente.
 
-BIBLIOGRAFÍA.
+6. BIBLIOGRAFÍA.
 
 
 
