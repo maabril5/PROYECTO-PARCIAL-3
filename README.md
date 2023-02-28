@@ -56,11 +56,13 @@ MINI AMPLIFICADOR DE AUDIO CASERO.
 
 ![image](https://user-images.githubusercontent.com/117920423/221749264-951df516-0cb1-4406-9883-6e95428424ec.png)
 
-3.4 Explicación de funcionamiento del circuito integrado.
+3.4 Explicación de funcionamiento del circuito integrado y condensador.
 
 El circuito integrado LM386 es un amplificador de mediana potencia, diseñado para su uso en aplicaciones de bajo consumo de corriente. La ganancia se establece internamente en 20 para mantener su disponibilidad en un mínimo, pero si se le agrega una resistencia externa y El condensador entre el pin 1 y el pin 8 aumentará la ganancia a cualquier valor de 20 a 200.
 
 ![image](https://user-images.githubusercontent.com/117920423/221759947-edc432cb-9fe3-4d9c-9ffa-b98734b3566a.png)
+
+El condensador sirve para transferir la señal de AC aislando el potencial DC. Por lo general el potencial DC de una señal AC es 0V o sea que varía entre un pico negativo y otro positivo de igual intensidad lo que da un potencial DC de 0V promedio. La entrada de un amplificador por lo general mantiene un nivel DC diferente de cero porque necesita un nivel de polarización DC específico para mantener el circuito en un punto donde haya mínima distorsión de la señal de salida. El voltaje de salida suele ser la mitad del voltaje de la fuente de alimentación del circuito. Si no se colocara el condensador, se estaría aplicando 0V a la entrada del amplificador, lo que cambiaría su polarización o nivel de operación óptimo y se produciría distorsión.
 
 4. VIDEO.
 
