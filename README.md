@@ -66,7 +66,7 @@ En este circuito el condesador tiene la función de transferir la señal de AC a
 
 4. VIDEO.
 
-
+https://youtube.com/watch?v=xBontXGEsIc&si=EnSIkaIECMiOmarE
 
 5. CONCLUSIONES.
 
